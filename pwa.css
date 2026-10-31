@@ -1,0 +1,4 @@
+.pwa-panel{margin:24px 0;padding:20px;border:1px solid #cbd5e1;border-radius:14px;background:#fff;color:#172b40;font-size:14px;line-height:1.6}
+.pwa-panel h2{font-size:18px;font-weight:700;margin:0 0 8px}.pwa-panel p{margin:8px 0}.pwa-panel summary{cursor:pointer;font-weight:600}.pwa-panel ul{padding-left:20px;list-style:disc}.pwa-panel li{margin:8px 0}.pwa-panel button{margin:8px 0;background:#6b1d2f;color:#fff}
+.pwa-panel [hidden]{display:none!important}
+@media print{.pwa-panel{display:none!important}}
